@@ -1,0 +1,6 @@
+com/ussunconsulting/belenguer/repository/HibernateCustomerRepositoryImpl.class
+com/ussunconsulting/belenguer/service/CustomerServiceImpl.class
+Application.class
+com/ussunconsulting/belenguer/service/CustomerService.class
+com/ussunconsulting/belenguer/repository/CustomerRepository.class
+com/ussunconsulting/belenguer/model/Customer.class
